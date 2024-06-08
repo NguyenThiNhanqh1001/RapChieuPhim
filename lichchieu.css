@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #10141B;
+}
+.bodyy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+.contentt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.text {
+    font-size: 20px;
+    font-weight: bold;
+    color: white; /* Màu chữ trắng */
+}
+.dot {
+    height: 12px;
+    width: 12px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+}
+.textPhu {
+    color: antiquewhite;
+    margin-top: 16px;
+    text-align: center;
+    padding: 0 16px;
+}
+.filmm{
+    color:white;
+    display: flex;
+    margin-top: 40px;
+    height: 320px;
+    width: 630px;
+    position: relative;
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 8px;
+}
+.hinhanh{
+    margin-right: 16px;
+}
+.hinhanh img {
+    height: 100%; /* Đặt chiều cao theo ý bạn */
+    object-fit: cover; /* Giữ tỷ lệ và cắt hình ảnh nếu cần */
+    border-radius: 8px;
+}
+.noidung button{
+    background-color: #10141B;
+    color: white;
+    border: 1px solid white;
+    padding: 4px;
+}
+.phandau{
+    display: flex;
+}
+.phandau p{
+    margin-right: 8px;
+}
+.categoryy{
+    position: absolute;
+    margin-top: 4px;
+    right: 0;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 4px;
+}

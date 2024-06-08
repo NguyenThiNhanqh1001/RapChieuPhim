@@ -1,0 +1,66 @@
+{
+    "cinema": {
+      "movies": [
+        {
+          "title": "Những gã trai hư: Chơi hay bị xơi-T18",
+          "thumbnail": "https://chieuphimquocgia.com.vn/_next/image?url=http%3A%2F%2Fapiv2.chieuphimquocgia.com.vn%2FContent%2FImages%2F0017565_0.jpeg&w=1920&q=75",
+          "origin": "Mỹ",
+          "genre": ["Hành động"],
+          "release_date": "2024-06-07",
+          "showtime": ["22:30", "23:10"],
+          "time":"115",
+          "age-limit": " T18 - PHIM ĐƯỢC PHỔ BIẾN ĐẾN NGƯỜI XEM TỪ ĐỦ 18 TUỔI TRỞ LÊN (18+)."
+        },
+        {
+          "title": "Gia tài của ngoại-T13(Phụ đề)",
+          "thumbnail": "https://chieuphimquocgia.com.vn/_next/image?url=http%3A%2F%2Fapiv2.chieuphimquocgia.com.vn%2FContent%2FImages%2F0017597_0.jpg&w=128&q=75",
+          "origin": "Thái Lan",
+          "genre": ["Tâm lý", "tình cảm"],
+          "release_date": "2024-06-07",
+          "showtime": ["22:50"],
+          "time":"120",
+          "age-limit": " T13 - PHIM ĐƯỢC PHỔ BIẾN ĐẾN NGƯỜI XEM TỪ ĐỦ 13 TUỔI TRỞ LÊN (13+)."
+        },
+        {
+            "title": "Ngôi đền kỳ quái 4-T16",
+            "thumbnail": "https://chieuphimquocgia.com.vn/_next/image?url=http%3A%2F%2Fapiv2.chieuphimquocgia.com.vn%2FContent%2FImages%2F0017487_0.jpg&w=128&q=75",
+            "origin": "Thái Lan",
+            "genre": ["Kinh dị"],
+            "release_date": "2024-05-31",
+            "showtime": ["23:20"],
+            "time":"111",
+            "age-limit": " T15 - PHIM ĐƯỢC PHỔ BIẾN ĐẾN NGƯỜI XEM TỪ ĐỦ 16 TUỔI TRỞ LÊN (16+)."
+          },
+          {
+            "title": "Stalker:Tội ác hoàn hảo - T16",
+            "thumbnail": "https://chieuphimquocgia.com.vn/_next/image?url=http%3A%2F%2Fapiv2.chieuphimquocgia.com.vn%2FContent%2FImages%2F0017605_0.jpg&w=128&q=75",
+            "origin": "Mỹ",
+            "genre": [""],
+            "release_date": "2024-05-31",
+            "showtime": ["23:10"],
+            "time":"101",
+            "age-limit": " T16 - PHIM ĐƯỢC PHỔ BIẾN ĐẾN NGƯỜI XEM TỪ ĐỦ 16 TUỔI TRỞ LÊN (16+)."
+          },
+        {
+            "title": "Furiosa:Câu chuyện từ max điên -T18",
+            "thumbnail": "https://chieuphimquocgia.com.vn/_next/image?url=http%3A%2F%2Fapiv2.chieuphimquocgia.com.vn%2FContent%2FImages%2F0017592_0.jpg&w=128&q=75",
+            "origin": "Mỹ",
+            "genre": ["Hành động"],
+            "release_date": "2024-05-24",
+            "showtime": ["22:30"],
+            "time":"140",
+            "age-limit": " T18 - PHIM ĐƯỢC PHỔ BIẾN ĐẾN NGƯỜI XEM TỪ ĐỦ 18 TUỔI TRỞ LÊN (18+)."
+          },
+          {
+            "title": "Lật mặt 7: Một điều ước - K",
+            "thumbnail": "https://chieuphimquocgia.com.vn/_next/image?url=http%3A%2F%2Fapiv2.chieuphimquocgia.com.vn%2FContent%2FImages%2F0017488_0.jpg&w=128&q=75",
+            "origin": "Việt Nam",
+            "genre": ["Tâm lý, tình cảm"],
+            "release_date": "2024-04-24",
+            "showtime": ["22:35"],
+            "time":"135",
+            "age-limit": " K - PHIM ĐƯỢC PHỔ BIẾN ĐẾN KHÁN GIẢ DƯỚI 13 TUỔI VỚI ĐIỀU KIỆN XEM CÙNG CHA, MẸ HOẶC NGƯỜI GIÁM HỘ"
+          }
+      ]
+    }
+  }
